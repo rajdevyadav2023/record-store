@@ -11,4 +11,16 @@ body{
   background-color: #098;
   padding: 1rem;
   color:#fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.input-container{
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 650px;
+  margin: auto;
 }
