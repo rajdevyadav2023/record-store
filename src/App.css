@@ -24,3 +24,21 @@ body{
   width: 650px;
   margin: auto;
 }
+
+.data{
+  padding: 1rem;
+  width: 650px;
+  margin: auto;
+}
+.data-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 74%;
+  padding: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  background-color: #1e8fff40;
+  color: #000000d1;
+  margin-top: .5rem;
+}
